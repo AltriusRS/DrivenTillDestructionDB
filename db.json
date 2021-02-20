@@ -1,0 +1,59 @@
+{
+  "tracks": [
+    {
+      "name": "Bajarama",
+      "season_link": "https://www.youtube.com/watch?v=JnVDyI1xvy0&list=PLHw7hcztgbttmgIS4_oQGr9Nw9I3sGrCG",
+      "map_link": "https://www.beamng.com/threads/bajarama-the-rigs-of-rods-classic.8754/",
+      "season": 1,
+      "status": "complete"
+    },
+    {
+      "name": "The Wreckoning",
+      "season_link": "https://www.youtube.com/watch?v=uN80j6eZjXE&list=PLHw7hcztgbtuLNhDVyO11QE8VJ7wufDfO",
+      "map_link": "https://www.beamng.com/resources/failraces-testtrack.2293/",
+      "season": 2,
+      "status": "complete"
+    },
+    {
+      "name": "The Endurodrome",
+      "season_link": "https://www.youtube.com/watch?v=tLVHkYyZMoU&list=PLHw7hcztgbtsaltC-5nAuQHnAQvqkm060",
+      "map_link": "https://www.beamng.com/threads/endurodrome.54911/",
+      "season": 3,
+      "status": "complete"
+    },
+    {
+      "name": "Proving Grounds",
+      "season_link": "https://www.youtube.com/watch?v=GkF-mfZLayk&list=PLHw7hcztgbttnWPU7e1v-29tZNXIH16wX",
+      "map_link": "https://www.beamng.com/resources/dtd-proving-ground.12971/",
+      "season": 4,
+      "status": "ongoing"
+    }
+  ],
+  "seasons": {
+    "1": [
+      {
+        "episode": 1,
+        "title": "BeamNG Drive Challenge - Driven Till Destruction",
+        "uploaded": "Jan 24, 2017",
+        "link": "https://www.youtube.com/watch?v=JnVDyI1xvy0"
+      }
+    ]
+  },
+  "cars": [
+    {
+      "season": 1,
+      "episode": 1,
+      "manufacturer": "Bruckel",
+      "model": "LeGran",
+      "author": "Stock",
+      "type": "Car",
+      "body_style": "Sedan",
+      "gearbox": "Manual",
+      "pre_heated": true,
+      "laps": 0,
+      "distance": 0,
+      "cause_of_death": "Unknown",
+      "link": "https://www.youtube.com/watch?v=JnVDyI1xvy0&t=0"
+    }
+  ]
+}
