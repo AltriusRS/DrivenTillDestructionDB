@@ -21,8 +21,8 @@ covered, but until that happens, we will continue to do our best estimation from
 |8|Complete|Incomplete|Incomplete|Incomplete|
 |9|Complete|Incomplete|Incomplete|Incomplete|
 |10|Complete|Incomplete|Incomplete|Incomplete|
-|11|Incomplete|Incomplete|Incomplete|Incomplete|
-|12|Incomplete|Incomplete|Incomplete|Incomplete|
+|11|Complete|Incomplete|Incomplete|Incomplete|
+|12|Complete|Incomplete|Incomplete|Incomplete|
 |13|Incomplete|Incomplete|Incomplete|Incomplete|
 |14|Incomplete|Incomplete|Incomplete|Incomplete|
 |15|Incomplete|Incomplete|Incomplete|Incomplete|
