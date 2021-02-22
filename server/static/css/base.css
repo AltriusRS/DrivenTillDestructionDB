@@ -6,3 +6,82 @@
 body {
     background-color: #111;
 }
+
+@media only screen and (max-width: 600px) {
+    #desktop-menu {
+        display: none
+    }
+}
+
+#mobile-menu {
+    display: none;
+}
+
+#ud-notification {
+    margin: 1em
+}
+
+.content {
+    padding: 1em 10em;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30pt;
+}
+
+h2 {
+    text-align: center;
+    font-size: 20pt;
+}
+
+h3 {
+    text-align: center;
+    font-size: 18pt;
+}
+
+h4 {
+    text-align: center;
+    font-size: 14pt;
+}
+
+h5 {
+    text-align: center;
+    font-size: 12pt;
+}
+
+a {
+    color: #ff6d00
+}
+
+.content-padding {
+    display: block;
+    height: 3em;
+}
+
+.content-seperator {
+    margin:5em 2em 3em 2em;
+    height: 0.1em;
+    display: block;
+    background-color: #aaaaaa;
+}
+
+.content-padding-primary {
+    display: block;
+}
+
+.progressbar-div {
+    align-items: center;
+}
+
+.progressbar-parent {
+    background-color: #b1b1b1;
+}
+
+.progressbar {
+    background-color: #efefef
+}
+
+.season-buffer {
+    min-width: 100vw;
+}

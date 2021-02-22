@@ -6,7 +6,11 @@
     <link href="/static/css/base.css" rel="stylesheet">
 
     <meta charset="UTF-8">
-    <title>Driven Till Destruction Database</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="/static/scripts/menu.js"></script>
+
+    <title>Vehicles | D2D DB</title>
 </head>
 <body>
 <nav class="bg-gray-800">
@@ -14,7 +18,7 @@
         <div class="relative flex items-center justify-between h-16">
             <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
                 <!-- Mobile menu button-->
-                <button type="button"
+                <button id="mob-nav-button" type="button"
                         class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"
                         aria-controls="mobile-menu" aria-expanded="false">
                     <span class="sr-only">Open main menu</span>
@@ -41,7 +45,7 @@
                     </svg>
                 </button>
             </div>
-            <div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
+            <div id="desktop-menu" class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
                 <div class="hidden sm:block sm:ml-6">
                     <div class="flex space-x-4">
                         <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
@@ -74,5 +78,22 @@
         </div>
     </div>
 </nav>
+<div id="ud-notification" class="text-white px-6 py-4 border-0 rounded relative mb-4 bg-orange-500">
+  <span class="text-xl inline-block mr-5 align-middle">
+    <h3 class="font-bold">!</h3>
+  </span>
+    <span class="inline-block align-middle mr-8">
+    <b class="capitalize">Notice:</b> This website is under construction. The page you see is not final.
+  </span>
+    <button onclick="document.getElementById('ud-notification').style.display='none'" class="absolute bg-transparent text-2xl font-semibold leading-none right-0 top-0 mt-4 mr-6 outline-none focus:outline-none">
+        <span>×</span>
+    </button>
+</div>
+<div class="content flex flex-col text-gray-300 content-center">
+
+</div>
+<footer class="bg-gray-900 text-gray-400">
+    <h5 class="font-bold flex-grow">Copyright© 2021 Thomas Bardsley</h5>
+</footer>
 </body>
 </html>
