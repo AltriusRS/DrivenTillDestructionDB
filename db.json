@@ -26,10 +26,28 @@
       "season_link": "https://www.youtube.com/watch?v=GkF-mfZLayk&list=PLHw7hcztgbttnWPU7e1v-29tZNXIH16wX",
       "map_link": "https://www.beamng.com/resources/dtd-proving-ground.12971/",
       "season": 4,
+      "status": "complete"
+    },
+    {
+      "name": "Streets of Destruction",
+      "season_link": null,
+      "map_link": "https://www.beamng.com/resources/streets-of-destruction.29164/",
+      "season": 5,
       "status": "ongoing"
+    },
+    {
+      "name": "Specials",
+      "season_link": null,
+      "map_link": null,
+      "season": 0,
+      "status": "complete"
     }
   ],
   "seasons": [
+    {
+      "season": 0,
+      "episodes": []
+    },
     {
       "season": 1,
       "episodes": [
@@ -725,7 +743,7 @@
           "episode": 10,
           "title": "BeamNG Drive Challenge - Driven Till Destruction 10",
           "uploaded": "Mar 1, 2017",
-          "link": "https://www.youtube.com/watch?v=dgXEvSTCOog",
+          "link": "https://www.youtube.com/watch?v=HRNseDZKB9Y",
           "cars": [
             {
               "manufacturer": "Ibishu",
@@ -747,7 +765,7 @@
               "death_time": 247,
               "start_time": 42,
               "survival_time": 205,
-              "link": "https://www.youtube.com/watch?v=dgXEvSTCOog&t=42"
+              "link": "https://www.youtube.com/watch?v=HRNseDZKB9Y&t=42"
             },
             {
               "manufacturer": "Ibishu",
@@ -769,7 +787,7 @@
               "death_time": 744,
               "start_time": 337,
               "survival_time": 407,
-              "link": "https://www.youtube.com/watch?v=dgXEvSTCOog&t=337"
+              "link": "https://www.youtube.com/watch?v=HRNseDZKB9Y&t=337"
             },
             {
               "manufacturer": "Hirochi",
@@ -791,7 +809,7 @@
               "death_time": 1589,
               "start_time": 843,
               "survival_time": 221,
-              "link": "https://www.youtube.com/watch?v=dgXEvSTCOog&t=843"
+              "link": "https://www.youtube.com/watch?v=HRNseDZKB9Y&t=843"
             }
           ]
         },
@@ -873,7 +891,7 @@
           "episode": 12,
           "title": "BeamNG Drive Challenge - Driven Till Destruction 12",
           "uploaded": "Mar 11, 2017",
-          "link": "https://www.youtube.com/watch?v=GFiN9XKRwBE",
+          "link": "https://www.youtube.com/watch?v=0K_gtep3dUY",
           "cars": [
             {
               "manufacturer": "Gavril",
@@ -895,7 +913,7 @@
               "death_time": 218,
               "start_time": 40,
               "survival_time": 94,
-              "link": "https://www.youtube.com/watch?v=GFiN9XKRwBE&t=40"
+              "link": "https://www.youtube.com/watch?v=0K_gtep3dUY&t=40"
             },
             {
               "manufacturer": "Ibishu",
@@ -917,7 +935,7 @@
               "death_time": 512,
               "start_time": 335,
               "survival_time": 177,
-              "link": "https://www.youtube.com/watch?v=GFiN9XKRwBE&t=335"
+              "link": "https://www.youtube.com/watch?v=0K_gtep3dUY&t=335"
             },
             {
               "manufacturer": "Gravril",
@@ -939,7 +957,7 @@
               "death_time": 1135,
               "start_time": 607,
               "survival_time": 528,
-              "link": "https://www.youtube.com/watch?v=GFiN9XKRwBE&t=607"
+              "link": "https://www.youtube.com/watch?v=0K_gtep3dUY&t=607"
             }
           ]
         }
@@ -951,6 +969,10 @@
     },
     {
       "season": 3,
+      "episodes": []
+    },
+    {
+      "season": 4,
       "episodes": []
     },
     {

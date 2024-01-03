@@ -9,42 +9,42 @@ covered, but until that happens, we will continue to do our best estimation from
 
 ## Current progress
 
-| Episode | Season 1 Status  | Season 2 Status  | Season 3 Status  | Season 4 Status  |
-|:---:|:---:|:---:|:---:|:---:|
-|1|Complete|Incomplete|Incomplete|Incomplete|
-|2|Complete|Incomplete|Incomplete|Incomplete|
-|3|Complete|Incomplete|Incomplete|Incomplete|
-|4|Complete|Incomplete|Incomplete|Incomplete|
-|5|Complete|Incomplete|Incomplete|Incomplete|
-|6|Complete|Incomplete|Incomplete|Incomplete|
-|7|Complete|Incomplete|Incomplete|Incomplete|
-|8|Complete|Incomplete|Incomplete|Incomplete|
-|9|Complete|Incomplete|Incomplete|Incomplete|
-|10|Complete|Incomplete|Incomplete|Incomplete|
-|11|Complete|Incomplete|Incomplete|Incomplete|
-|12|Complete|Incomplete|Incomplete|Incomplete|
-|13|Incomplete|Incomplete|Incomplete|Incomplete|
-|14|Incomplete|Incomplete|Incomplete|Incomplete|
-|15|Incomplete|Incomplete|Incomplete|Incomplete|
-|16|Incomplete|Incomplete|Incomplete|Incomplete|
-|17|Incomplete|Incomplete|Incomplete|Incomplete|
-|18|Incomplete|Incomplete|Incomplete|Incomplete|
-|19|Incomplete|Incomplete|Incomplete|Incomplete|
-|20|Incomplete|N/A|Incomplete|Incomplete|
-|21|Incomplete|N/A|Incomplete|Incomplete|
-|22|Incomplete|N/A|Incomplete|Incomplete|
-|23|Incomplete|N/A|Incomplete|Incomplete|
-|24|Incomplete|N/A|Incomplete|Incomplete|
-|25|Incomplete|N/A|Incomplete|Incomplete|
-|26|Incomplete|N/A|Incomplete|Incomplete|
-|27|Incomplete|N/A|Incomplete|Incomplete|
-|28|Incomplete|N/A|Incomplete|Incomplete|
-|29|Incomplete|N/A|Incomplete|Incomplete|
-|30|Incomplete|N/A|Incomplete|N/A|
-|31|Incomplete|N/A|Incomplete|N/A|
-|32|N/A|N/A|Incomplete|N/A|
-|33|N/A|N/A|Incomplete|N/A|
-|34|N/A|N/A|Incomplete|N/A|
+| Episode | [Season 1 Status](https://www.youtube.com/watch?v=JnVDyI1xvy0&list=PLHw7hcztgbttmgIS4_oQGr9Nw9I3sGrCG)  | [Season 2 Status](https://www.youtube.com/watch?v=uN80j6eZjXE&list=PLHw7hcztgbtuLNhDVyO11QE8VJ7wufDfO)  | [Season 3 Status](https://www.youtube.com/watch?v=tLVHkYyZMoU&list=PLHw7hcztgbtsaltC-5nAuQHnAQvqkm060)  | [Season 4 Status](https://www.youtube.com/watch?v=GkF-mfZLayk&list=PLHw7hcztgbttnWPU7e1v-29tZNXIH16wX)  | Season 5 Status | 
+|---:|:---|:---|:---|:---|:---|
+|1|[Complete](https://www.youtube.com/watch?v=JnVDyI1xvy0)|Incomplete|Incomplete|Incomplete|Incomplete|
+|2|[Complete](https://www.youtube.com/watch?v=XEFARcGV150)|Incomplete|Incomplete|Incomplete|Incomplete|
+|3|[Complete](https://www.youtube.com/watch?v=FkPh1AO6SDo)|Incomplete|Incomplete|Incomplete|N/A
+|4|[Complete](https://www.youtube.com/watch?v=NQfBtV6RUUQ)|Incomplete|Incomplete|Incomplete|N/A
+|5|[Complete](https://www.youtube.com/watch?v=rA2UgG7n41g)|Incomplete|Incomplete|Incomplete|N/A
+|6|[Complete](https://www.youtube.com/watch?v=iDZQylW2ZrY)|Incomplete|Incomplete|Incomplete|N/A
+|7|[Complete](https://www.youtube.com/watch?v=ce_9p8Zkk_c)|Incomplete|Incomplete|Incomplete|N/A
+|8|[Complete](https://www.youtube.com/watch?v=B3xzJpiwgPM)|Incomplete|Incomplete|Incomplete|N/A
+|9|[Complete](https://www.youtube.com/watch?v=dgXEvSTCOog)|Incomplete|Incomplete|Incomplete|N/A
+|10|[Complete](https://www.youtube.com/watch?v=HRNseDZKB9Y)|Incomplete|Incomplete|Incomplete|N/A
+|11|[Complete](https://www.youtube.com/watch?v=GFiN9XKRwBE)|Incomplete|Incomplete|Incomplete|N/A
+|12|[Complete](https://www.youtube.com/watch?v=0K_gtep3dUY)|Incomplete|Incomplete|Incomplete|N/A
+|13|Incomplete|Incomplete|Incomplete|Incomplete|N/A
+|14|Incomplete|Incomplete|Incomplete|Incomplete|N/A
+|15|Incomplete|Incomplete|Incomplete|Incomplete|N/A
+|16|Incomplete|Incomplete|Incomplete|Incomplete|N/A
+|17|Incomplete|Incomplete|Incomplete|Incomplete|N/A
+|18|Incomplete|Incomplete|Incomplete|Incomplete|N/A
+|19|Incomplete|Incomplete|Incomplete|Incomplete|N/A
+|20|Incomplete|N/A|Incomplete|Incomplete|N/A
+|21|Incomplete|N/A|Incomplete|Incomplete|N/A
+|22|Incomplete|N/A|Incomplete|Incomplete|N/A
+|23|Incomplete|N/A|Incomplete|Incomplete|N/A
+|24|Incomplete|N/A|Incomplete|Incomplete|N/A
+|25|Incomplete|N/A|Incomplete|Incomplete|N/A
+|26|Incomplete|N/A|Incomplete|Incomplete|N/A
+|27|Incomplete|N/A|Incomplete|Incomplete|N/A
+|28|Incomplete|N/A|Incomplete|Incomplete|N/A
+|29|Incomplete|N/A|Incomplete|Incomplete|N/A
+|30|Incomplete|N/A|Incomplete|N/A|N/A
+|31|Incomplete|N/A|Incomplete|N/A|N/A
+|32|N/A|N/A|Incomplete|N/A|N/A
+|33|N/A|N/A|Incomplete|N/A|N/A
+|34|N/A|N/A|Incomplete|N/A|N/A
 
 ## Website Progress
 
